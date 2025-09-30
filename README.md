@@ -57,13 +57,6 @@ This project provides a desktop application with a graphical user interface (GUI
   - `test_filecrypto.py` - Fernet file encryption
   - `test_hybridcrypto.py` - RSA hybrid encryption
 
-## Screenshots
-
-*(Add screenshots here for key GUI tabs, encryption steps, and output messages)*
-
-Example:
-![Caesar Cipher Tab](images/caesar_tab.png)
-![Hybrid Encryption Tab](images/hybrid_tab.png)
 
 ## Known Issues & Future Work
 
